@@ -1,0 +1,107 @@
+C:\Users\harhi\source\repos\SolutionProject\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\harhi\source\repos\SolutionProject\Application\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\SolutionProject\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\SolutionProject\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\SolutionProject\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\SolutionProject\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\harhi\source\repos\CleanPositiwise\Application\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\harhi\source\repos\CleanAsync\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\harhi\source\repos\CleanAsync\Application\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanAsync\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanAsync\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanAsync\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\bin\Debug\net8.0\Application.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\bin\Debug\net8.0\Application.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Application\obj\Debug\net8.0\ref\Application.dll

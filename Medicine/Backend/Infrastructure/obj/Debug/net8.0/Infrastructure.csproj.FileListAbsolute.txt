@@ -1,0 +1,135 @@
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\harhi\source\repos\SolutionProject\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\harhi\source\repos\CleanAsync\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

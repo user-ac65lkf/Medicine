@@ -1,0 +1,55 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css" layer(bootstrap);
+@import "../node_modules/primeng/resources/primeng.min.css";
+              // "node_modules/primeng/resources/primeng.min.css",
+              // "node_modules/bootstrap/scss/bootstrap.scss",
+
+@media (min-width: 1000px) {
+    main.container {
+        max-width: 1020px;
+        padding-top: 50px;
+    }
+}
+
+body {
+    padding-left: calc(100vw - 100%);
+}
+
+.selectComp{
+    ul{
+        padding-left: 0;
+    }
+}
+
+.multiselect-dropdown[_ngcontent-ng-c692748064] .dropdown-btn[_ngcontent-ng-c692748064] {
+    height: 38px;
+}
+
+.wrap .form-control.form-control-lg {
+    line-height: 20px;
+    min-height: auto;
+    padding-top: 8px;
+    padding-bottom:8px;
+    font-size: 16px;
+}
+
+.form-label{
+    opacity: 0.5;
+}
+
+.error-style{
+    color: red;
+    margin-bottom: 0;
+}
+
+.form-label:after{
+    content:"*";
+    margin-left: 5px;
+}
+
+.substancesDisplay:not(:last-child)::after{
+    content: ","
+}
+
+.doseDisplay:not(:last-child)::after{
+    content: "/"
+}

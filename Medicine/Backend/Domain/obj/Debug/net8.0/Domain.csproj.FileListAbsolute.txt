@@ -1,0 +1,79 @@
+C:\Users\harhi\source\repos\SolutionProject\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\harhi\source\repos\SolutionProject\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\SolutionProject\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\SolutionProject\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanPositiwise\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\harhi\source\repos\CleanAsync\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\CleanAsync\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\FullProjectOne\Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\harhi\source\repos\LinqProjMed\Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\WINDOWS 11\Desktop\trySynel\medicine\Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\LaptopIRL6\Desktop\Desk\all\medicine\Backend\Domain\obj\Debug\net8.0\ref\Domain.dll

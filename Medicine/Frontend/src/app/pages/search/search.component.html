@@ -1,0 +1,37 @@
+
+
+  <!-- <div class="section listing-section pb-5">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+  
+      @for(item of datam; track 'id'){
+        <div class="col">
+          <div class="card h-100">
+            <div class="top-block">
+              <div class="img-wrapper">
+                <img [src]="item.medicineImageUrl" class="card-img-top" alt="...">
+              </div>
+              <h3>{{item.medicineTradeName}}</h3>
+            </div>
+            <div class="card-body">
+              <p class="card-title"><span>Действующее вещество:</span> 
+                @for(str of item.medSubstances; let last=$last; track $index){
+                  <span class="substancesDisplay"> {{str.tradeName}}</span>
+                }
+              </p>
+              <p class="card-title"><span>Производитель:</span> {{item.medicineManufacturer.manufacturerName}}, ({{item.medicineManufacturer.manufacturerCountry.countryName}})</p>
+              <p class="card-title"><span>Лекарственная форма:</span> {{item.medicineForm.title}}</p>
+              <p class="card-title"><span>Дозировка:</span> 
+                @for(str of item.medDoses; let last=$last; track $index){
+                  <span class="doseDisplay"> {{str.dosage}}{{str.title}}</span>
+                }
+              </p>
+            </div> -->
+           
+          <!-- </div>
+        </div>
+      }
+      
+    </div>
+  </div> -->
+  
+<app-medicine-listing></app-medicine-listing>

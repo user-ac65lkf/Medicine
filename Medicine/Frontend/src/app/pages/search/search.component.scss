@@ -1,0 +1,27 @@
+.listing-section{
+    .card{
+        .top-block{
+            display: flex;
+            align-items: center;
+        }
+        .img-wrapper{
+            margin-right: 25px;
+            width: 150px;
+            height: 100px;
+            object-fit: contain;
+            margin-left: 16px;
+        }
+        .card-body p{
+            font-size: 14px;
+            & span:first-child {
+                font-weight: 700;
+            }
+        }
+    }
+    .bi-pen, .bi-trash{
+        color: #6c757d;
+    }
+    .bi-trash{
+        cursor: pointer;
+    }
+}

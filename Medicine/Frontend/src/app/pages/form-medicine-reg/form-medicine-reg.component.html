@@ -1,0 +1,108 @@
+<section class="h-100 ">
+    <div class="container py-5 h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col">
+          <div class="card card-registration my-4">
+            <div class="row g-0">
+              <div class="">
+                <form class="card-body p-md-5 text-black" novalidate #submitForm="ngForm">
+                  <h3 class="mb-5 text-uppercase">Регистрационная форма лекарственного препарата</h3>
+                  <div class="row">
+                    <div class="col-md-6 mb-4">
+                      <div data-mdb-input-init class="form-outline wrap">
+                        <input [(ngModel)]="medObj.tradeName" #tradeName="ngModel" name="tradeName" type="text" id="form2" class="form-control form-control-lg" required />
+                        <div *ngIf="tradeName.invalid && (tradeName.touched || tradeName.dirty) || isFormSubmitted">
+                          <p *ngIf="tradeName.errors?.['required']" class="error-style">Required field</p>
+                        </div>
+                        <label class="form-label" for="form2">Торговое наименование</label>
+                      </div>
+                    </div>
+                    <div class="col-md-6 mb-4">
+                      <div data-mdb-input-init class="form-outline wrap">
+                        <input [(ngModel)]="medObj.interName" #interName="ngModel" type="text" id="form3" name="interName" class="form-control form-control-lg" required />
+                        <div *ngIf="interName.invalid && (interName.touched || interName.dirty) || isFormSubmitted">
+                          <p *ngIf="interName.errors?.['required']" class="error-style">Required field</p>
+                        </div>
+                        <label class="form-label" for="form3">Международное наименование</label>
+                      </div>
+                    </div>
+                  </div>  
+                  <div class="row">
+                    <div class="col-md-6 mb-4">
+                      <select class="form-select" [(ngModel)]="medObj.manufacturerId" name="manufacturer" #manufacturer="ngModel" required>
+                        <option value=""></option>
+                        @for (item of manufacturersList; track $index) {
+                          <option [value]="item.id">{{item.manufacturerName}}</option>
+                        }
+                      </select>
+                      <div *ngIf="manufacturer.invalid && (manufacturer.touched || manufacturer.dirty) || isFormSubmitted">
+                        <p *ngIf="manufacturer.errors?.['required']" class="error-style">Required field</p>
+                      </div>
+                      <label class="form-label">Производитель</label>
+                    </div>                   
+                    <div class="col-md-6 mb-4">
+                      <div data-mdb-input-init class="form-outline">
+                        <select [(ngModel)]="medObj.medFormId" name="medforms" class="form-select" #medforms="ngModel" required>
+                          <option value=""></option>
+                          @for (item of medformsList; track $index) {
+                            <option [value]="item.id">{{item.title}}</option>
+                          }
+                        </select>
+                        <div *ngIf="medforms.invalid && (medforms.touched || medforms.dirty) || isFormSubmitted">
+                          <p *ngIf="medforms.errors?.['required']" class="error-style">Required field</p>
+                        </div>
+                        <label class="form-label" >Лекарственная форма</label>
+                      </div>
+                    </div>
+                  </div> 
+                  <div class="row">
+                    <div class="col-md-6 mb-4">  
+                      <ng-multiselect-dropdown id="aa"
+                        [placeholder]="' '"
+                        [settings]="dropdownSettings"
+                        [data]="dropdownList"
+                        [(ngModel)]="selectedItems"
+                        [name]="selectedItems"
+                        [required]='requiredField' 
+                        (onSelect)="onItemSelect($event)"
+                        (onDeSelect)="onItemDeSelect($event)"
+                      >
+                      </ng-multiselect-dropdown>                      
+                      <p class="error-style"  *ngIf="!requiredField && isFormSubmitted">Required field</p>
+                      <label class="form-label">Действующие вещества</label>
+                    </div> 
+                    <div class="col-md-6 mb-4">  
+                      <ng-multiselect-dropdown id="cc"
+                        [placeholder]="' '"
+                        [settings]="dropdownDoseSettings"
+                        [data]="dropdownDoseList"
+                        [(ngModel)]="selectedDoseItems"
+                        [name]="selectedDoseItems"
+                        [required]='requiredFieldDose'
+                        (onSelect)="onItemDoseSelect($event)"
+                        (onDeSelect)="onItemDoseDeSelect($event)"
+                      >
+                      </ng-multiselect-dropdown>
+                      <p class="error-style"  *ngIf="!requiredFieldDose && isFormSubmitted">Required field</p>
+                      <label class="form-label" >Доза</label>
+                    </div> 
+                  </div> 
+                  <div class="row">
+                    <div class="col-md-6 mb-4">
+                      <div data-mdb-input-init class="wrap form-outline">
+                        <input [(ngModel)]="medObj.imageUrl" type="text" name="imageUrl" id="form4" class="form-control form-control-lg" />
+                        <label class="form-label" for="form4">Фото</label>
+                      </div>
+                    </div>
+                  </div>                  
+                  <div class="d-flex justify-content-end pt-3">
+                    <button (click)="onRegister(submitForm)" type="button" data-mdb-button-init data-mdb-ripple-init class="btn border border-dark btn-lg ms-2">Сохранить</button>
+                  </div>  
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

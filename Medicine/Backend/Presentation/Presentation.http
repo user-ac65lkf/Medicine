@@ -1,0 +1,34 @@
+@Presentation_HostAddress = http://localhost:5139
+
+# Country Requests
+GET {{Presentation_HostAddress}}/countries
+Accept: application/json
+
+###
+
+GET {{Presentation_HostAddress}}/countries/5
+Accept: application/json
+
+###
+
+POST {{Presentation_HostAddress}}/countries
+Content-Type: application/json
+
+{
+  "countryName": "Sweden"
+}
+
+###
+
+DELETE {{Presentation_HostAddress}}/countries/6
+Accept: application/json
+
+###
+
+PUT {{Presentation_HostAddress}}/countries
+Content-Type: application/json
+
+{
+  "Id": 1,
+  "CountryName": "Kenya"
+}

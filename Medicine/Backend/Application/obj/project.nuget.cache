@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1phb/gSPrwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LaptopIRL6\\Desktop\\Desk\\all\\medicine\\Backend\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LaptopIRL6\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
